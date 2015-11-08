@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Peter Duncan
-tagline:          'Testing the untestable'
+tagline:          'Automated Test Systems'
 description:      'Some thoughts on architecting structured, traceable and super-fast automated test systems. Made by <a href="https://twitter.com/PeteDunc" target="_blank">@PeteDunc</a>.'
 url:              http://pdunc.github.io
 baseurl:          /
