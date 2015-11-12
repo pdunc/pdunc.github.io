@@ -14,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {% if post.image %}
+    <!-- {% if post.image %}
       <p>
         I'm an image!
       </p>
@@ -25,7 +25,10 @@ title: Home
       <p>
         No image here!
       </p>
-    {% endif %}
+    {% endif %} -->
+
+    {{ post.excerpt }}
+
   </div>
   {% endfor %}
 </div>

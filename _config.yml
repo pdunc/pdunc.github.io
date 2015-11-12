@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Peter Duncan
-tagline:          'Automated Test Systems'
-description:      'Some thoughts on architecting structured, traceable and super-fast automated test systems. Made by <a href="https://twitter.com/PeteDunc" target="_blank">@PeteDunc</a>.'
+tagline:          'Automated Test System Developer'
+description:      'Welcome! Crafted in Scotland by <a href="https://twitter.com/PeteDunc" target="_blank">@PeteDunc</a>.'
 url:              http://pdunc.github.io
 baseurl:          /
 
