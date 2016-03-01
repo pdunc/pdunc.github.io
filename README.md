@@ -1,3 +1,11 @@
+# pdunc.com
+
+To test in a docker container, run the following command:
+
+```bash
+docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 0.0.0.0:4000:4000 jekyll/jekyll:pages
+```
+
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
