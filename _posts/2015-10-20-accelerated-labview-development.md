@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Accelerated LabVIEW Development
+comments: true
 ---
 
 <div class="message">
